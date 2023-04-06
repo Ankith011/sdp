@@ -1,0 +1,61 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+#backgroundImage{
+    position: absolute;
+}
+
+.forms{
+    position: absolute;
+    color: white;
+    border: 1px solid white;
+    background-color: transparent;
+    top: 30%;
+    right: 40%;
+    height: 430px;
+    width: 400px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+h1{
+    text-align: center;
+    padding-top: 10px;
+}
+
+#noOfTravellers{
+    border: 1px solid white;
+    background-color: transparent;
+    height: 30px;
+    color: white;
+}
+
+#dropDown{
+    border: 1px solid white;
+    background-color: transparent;
+    height: 30px;
+    color: white;
+    width: 167px;
+}
+
+#email{
+    border: 1px solid white;
+    background-color: transparent;
+    height: 30px;
+    color: white;
+}
+#submit{
+    padding: 10px;
+    cursor: pointer;
+
+}
+
+#image{
+    position: absolute;
+    left: 60%;
+    top: 20px;
+}

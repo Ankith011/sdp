@@ -1,0 +1,130 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#heading{
+    border: 1px solid coral;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    width: 50%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: coral;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+.img1{
+    position: absolute;
+    top: 15px;
+    left: 20px;
+}
+
+.img2{
+    position: absolute;
+    top: 15px;
+    left: 355px;
+}
+
+
+#form{
+    position: absolute;
+    border: 1px solid transparent;
+    height: 80%;
+    width: 400px;
+    color: white;
+    top: 20%;
+    left: 10%;
+
+}
+
+#nameTextBox{
+    width: 400px;
+    height: 60px;
+    border: 1px solid coral;
+    background-color: transparent;
+    border-radius: 10px;
+}
+
+#countryTextBox{
+    width: 400px;
+    height: 60px;
+    border: 1px solid coral;
+    background-color: transparent;
+    border-radius: 10px;
+}
+
+#noOfEpisodeTextBox{
+    width: 400px;
+    height: 60px;
+    border: 1px solid coral;
+    background-color: transparent;
+    border-radius: 10px;
+}
+
+#yourRatingTextBox{
+    width: 400px;
+    height: 60px;
+    border: 1px solid coral;
+    background-color: transparent;
+    border-radius: 10px;
+}
+
+
+#awardsTextBox{
+    width: 400px;
+    height: 60px;
+    border: 1px solid coral;
+    background-color: transparent;
+    border-radius: 10px;
+}
+
+
+
+#submitButton{
+    position: absolute;
+    color: white;
+    background-color: coral;
+    border-radius: 5px;
+    right: 420px;
+    top: 70%;
+    width: 150px;
+    height: 50px;
+    font-size: 18px;
+    cursor: pointer;
+
+}
+
+
+#descriptionTextBox{
+    height: 300px;
+    width: 350px;
+    background-color: transparent;
+    border: 1px solid coral;
+    border-radius: 10px;
+    position: absolute;
+    right: 20%;
+    top: 20%;
+    color: white;
+}
+
+#lable{
+    position:absolute;
+    right:27%;
+    top:16%;
+    color:white;
+    font-size:16px;
+}
+
+#form input,
+#form select{
+    color: white;
+    font-size:16px;
+}
+
+#form option{
+    color: black;
+    font-size:16px;
+}
