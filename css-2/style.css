@@ -1,0 +1,81 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+#health1{
+    position: absolute;
+    top: 20%;
+    padding-left: 60px;
+}
+
+body{
+    background-color: rgb(85, 30, 136);
+    color: white;
+}
+
+.p1{
+    position: absolute;
+    left: 40%;
+    top: 35%;
+}
+
+#titleName{
+    background-color: cadetblue;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#health2{
+    position: absolute;
+    top: 700px;
+    right: 60px;
+}
+
+.p2{
+    position: absolute;
+    top: 750px;
+    left: 60px;
+    width: 700px;
+}
+
+#health3{
+    position: absolute;
+    top: 1200px;
+    left: 60px;
+}
+
+.p3{
+    position: absolute;
+    top: 1300px;
+    right: 200px;
+    width: 700px;
+}
+
+#health4{
+    position: absolute;
+    top: 1700px;
+    right: 60px;
+}
+
+.p4{
+    position: absolute;
+    top: 1800px;
+    left: 60px;
+    width: 700px;
+}
+
+#health5{
+    position: absolute;
+    top: 2300px;
+    left: 60px;
+}
+
+.p5{
+    position: absolute;
+    top: 2400px;
+    right: 70px;
+    width: 700px;
+}
