@@ -1,0 +1,33 @@
+a{
+    background-color: #b30b0bc9;
+    color: white;
+    padding: 14px 25px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+  
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: center
+  }
+  
+  img {
+    max-width: 100%
+  }
+  
+  .image {
+    flex-basis: 40%
+  }
+  
+  .text {
+    font-size: 20px;
+    padding-left: 20px;
+    
+  }
+  body{
+    font-family: "Segoe UI Black";
+  }
+  

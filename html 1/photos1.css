@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }
+
+  a{
+    background-color: #b30b0bc9;
+    color: white;
+    padding: 14px 25px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+  }
+body{
+    background-color:#E4CB75  ;
+}
+
+img{
+    padding-top: 10%;
+    padding-left: 5%;
+}
