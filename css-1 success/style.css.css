@@ -1,0 +1,138 @@
+*{
+    margin:0px;
+    padding: 0%;
+
+}
+
+body{
+    width: 1450px;
+}
+
+
+.container{
+    width:1450px;
+    height: 740px;
+    flex: auto;
+}
+.title{
+    height: 50px;
+    background-color:red;
+    position:absolute;
+    width:70%;
+    top:12.45%;
+    margin-left: 15%;
+}
+
+#TitleName{
+    text-align: center;
+    color:white;
+    font-family: fantasy;
+    
+
+}
+.content{
+    width:70%;
+    height:580px;
+    background:rgba(16, 15, 15, 0.581);
+    position:absolute;
+    top:19%;
+    margin-left: 15%;
+    margin-bottom: 40%;
+    
+
+}
+.c1{
+     padding-left: 50px;
+     justify-content:first baseline;
+     display: flex;
+     width: 400px;
+}
+
+.c2{
+    padding-left: 50px;
+    justify-content:first baseline;
+    display: flex;
+    width: 400px;
+}
+
+.c3{
+    padding-left: 50px;
+    justify-content:first baseline;
+    display: flex;
+    width: 400px;
+
+}
+
+.p2{
+    background-color: white;
+    width: 125px;
+}
+
+#superHerosName1{
+    text-align: center;
+}
+
+#superHerosName2{
+    text-align: center;
+}
+
+#superVillainName1{
+    text-align: center;
+}
+
+#superVillainName2{
+    text-align: center;
+}
+
+.p2{
+    text-align: center;
+}
+
+#popularHeros{
+    color: white;
+    width: 400px;
+    text-align:center;
+    padding-left: 50px;
+}
+
+.content1{
+    width:70%;
+    height:580px;
+    
+    position:absolute;
+    top:19%;
+    margin-left: 55%;
+    margin-bottom: 40%;
+}
+
+.c4{
+    
+     padding-left: 10px;
+     justify-content:end;
+     display: flex;
+     width: 400px;
+}
+
+.c5{
+    padding-left: 10px;
+    justify-content:right;
+    display: flex;
+    width: 400px;
+    
+}
+
+.c6{
+    padding-left: 10px;
+    justify-content:right;
+    display: flex;
+    width: 400px;
+
+}
+
+#popularVillains{
+    text-align: center;
+    color: white;
+    width: 400px;
+    text-align:center;
+    
+}
