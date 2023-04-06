@@ -1,0 +1,282 @@
+.container{
+    position: absolute;
+   
+}
+
+.elements{
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.859);
+    display: flex;
+    color: black;
+    flex: left;
+    justify-content:space-evenly;
+    width: 100%;
+    height: 40px;
+    top: 0%;
+    left: 0%;
+    padding-top: 5px;
+    cursor: pointer;
+   
+}
+
+body{
+   
+    background-color: #111727;
+    font-family: poppins;
+    
+}
+
+.backg{
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+}
+
+.e1{
+    color: black;
+    font-size: 26px;
+}
+
+.e2{
+    color: black;
+    font-size: 26px;
+}
+
+.e3{
+    color: black;
+    font-size: 26px;
+}
+
+.e4{
+    color: black;
+    font-size: 26px;
+}
+
+.course1{
+    display: flex;
+    justify-content: space-evenly;
+    width: 1400px;
+}
+
+li{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.class1{
+    border: 1px transparent;
+    height: 200px;
+    width: 200px;
+}
+
+.desc1{
+    border: 1px solid;
+    width: 200px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-family: 'Acme', sans-serif;
+    font-weight: 700;
+    border-radius: 20px;
+}
+
+.desc2{
+    border: 1px solid;
+    width: 200px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-family: 'Acme', sans-serif;
+    font-weight: 700;
+    border-radius: 20px;
+}
+
+.desc3{
+    border: 1px solid;
+    width: 230px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-family: 'Acme', sans-serif;
+    font-weight: 700;
+    border-radius: 20px;
+}
+
+.class2{
+    border: 1px transparent;
+    height: 200px;
+    width: 200px;
+   
+}
+.class3{
+    border: 1px transparent;
+    height: 200px;
+    width: 200px;
+    margin-right: 300px;
+}
+
+.title{
+    margin-top: 100px;
+    font-size: 36px;
+    font-family: cursive;
+   
+}
+
+.class1img1{
+    border: none;
+    border-radius: 20px;
+}
+
+.class1img2{
+    border: none;
+    border-radius: 20px;
+}
+
+.class1img3{
+    border: none;
+    border-radius: 20px;
+}
+
+.course2{
+    display: flex;
+    justify-content: space-evenly;
+    width: 1400px;
+    margin-top: 175px;
+}
+
+.class4{
+    border: 1px transparent;
+    height: 200px;
+    width: 200px;
+}
+
+.desc4{
+    border: 1px solid;
+    width: 200px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-family: 'Acme', sans-serif;
+    font-weight: 700;
+    border-radius: 20px;
+}
+
+.desc5{
+    border: 1px solid;
+    width: 200px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-family: 'Acme', sans-serif;
+    font-weight: 700;
+    border-radius: 20px;
+}
+
+.desc6{
+    border: 1px solid;
+    width: 230px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-family: 'Acme', sans-serif;
+    font-weight: 700;
+    border-radius: 20px;
+}
+
+.class5{
+    border: 1px transparent;
+    height: 200px;
+    width: 200px;
+   
+}
+.class6{
+    border: 1px transparent;
+    height: 200px;
+    width: 200px;
+    margin-right: 300px;
+}
+
+.title2{
+    position: absolute;
+    font-size: 36px;
+    font-family: cursive;
+    top: 520px;
+}
+
+.class1img4{
+    border: none;
+    border-radius: 20px;
+}
+
+.class1img5{
+    border: none;
+    border-radius: 20px;
+}
+
+.class1img6{
+    border: none;
+    border-radius: 20px;
+}
+
+
+.desc7{
+    border: 1px solid;
+    width: 200px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-family: 'Acme', sans-serif;
+    font-weight: 700;
+    border-radius: 20px;
+}
+
+.desc8{
+    border: 1px solid;
+    width: 200px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-family: 'Acme', sans-serif;
+    font-weight: 700;
+    border-radius: 20px;
+}
+
+
+
+.class3{
+    border: 1px transparent;
+    height: 200px;
+    width: 200px;
+   
+}
+
+
+.title3{
+    position: absolute;
+    font-size: 36px;
+    font-family: cursive;
+    top: 900px;
+}
+
+.class1img7{
+    border: none;
+    border-radius: 20px;
+}
+
+.class1img8{
+    border: none;
+    border-radius: 20px;
+}
+
+.course3{
+    display: flex;
+    justify-content: space-evenly;
+    width: 800px;
+    position: absolute;
+    top: 990px;
+    left: 31px;
+}

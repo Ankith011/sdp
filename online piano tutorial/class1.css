@@ -1,0 +1,359 @@
+
+
+
+body{
+    width: 3000px;
+}
+
+.previous{
+    display: flex;
+}
+
+.header{
+    display: flex;
+}
+
+.intro{
+    font-size: 38px;
+    font-family:cursive;
+    margin-left: 20px;
+    margin-top: 70px;
+}
+
+.class1img{
+    border: 1px solid transparent;
+    border-radius: 20px;
+    margin-top:30px;
+}
+
+.img1{
+    border: 1px solid transparent;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+
+.desc1{
+    font-size: 30px;
+    font-family: cursive;
+}
+.starting{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.introclass1{
+    display: flex;
+}
+
+
+.step1{
+    border: 1px solid transparent;
+    width: 350px;
+    height: 200px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: #111727;
+}
+
+.start{
+    position:absolute;
+    width: 250px;
+    height: 40px;
+    margin-left:20px;
+    margin-top: 90px;
+    font-size: 25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+
+}
+
+.pstep{
+    font-size: 30px;
+    position: absolute;
+    margin-left:20px;
+    margin-top: 20px;
+    
+   
+}
+
+.introclass2{
+    display: flex;
+}
+
+
+.step2{
+    border: 1px solid transparent;
+    width: 350px;
+    height: 200px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: #111727;
+}
+
+.start2{
+    position:absolute;
+    width: 250px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 90px;
+    font-size: 25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+
+}
+
+.pstep2{
+    width: 300px;
+    font-size: 30px;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+   
+}
+
+.introclass3{
+    display: flex;
+}
+
+
+.step3{
+    border: 1px solid transparent;
+    width: 350px;
+    height: 200px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: #111727;
+}
+
+.start3{
+    position:absolute;
+    width: 250px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 90px;
+    font-size: 25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+
+}
+
+.pstep3{
+    width:300px;
+    font-size: 30px;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+   
+}
+
+.introclass4{
+    display: flex;
+}
+
+.step4{
+    border: 1px solid transparent;
+    width: 350px;
+    height: 200px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: #111727;
+}
+
+.start4{
+    position:absolute;
+    width: 250px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 90px;
+    font-size: 25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+
+}
+
+.pstep4{
+    width: 300px;
+    font-size: 30px;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+   
+}
+
+.secondrow{
+    display: flex;
+    justify-content: space-around;
+}
+
+.introclass5{
+    display: flex;
+}
+
+.step5{
+    border: 1px solid transparent;
+    width: 350px;
+    height: 200px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: #111727;
+}
+
+.start5{
+    position:absolute;
+    width: 250px;
+    height: 40px;
+    margin-left:20px;
+    margin-top: 90px;
+    font-size: 25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+
+}
+
+.pstep5{
+    width: 300px;
+    font-size: 30px;
+    position: absolute;
+    margin-left:20px;
+    margin-top: 20px;
+    
+   
+}
+
+.introclass6{
+    display: flex;
+}
+
+
+.step6{
+    border: 1px solid transparent;
+    width: 350px;
+    height: 200px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: #111727;
+}
+
+.start6{
+    position:absolute;
+    width: 250px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 90px;
+    font-size: 25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+
+}
+
+.pstep6{
+    width: 300px;
+    font-size: 30px;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+   
+}
+
+.introclass7{
+    display: flex;
+}
+
+
+.step7{
+    border: 1px solid transparent;
+    width: 350px;
+    height: 200px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: #111727;
+}
+
+.start7{
+    position:absolute;
+    width: 250px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 90px;
+    font-size: 25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+
+}
+
+.pstep7{
+    width: 300px;
+    font-size: 30px;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+   
+}
+
+.introclass8{
+    display: flex;
+}
+
+.step8{
+    border: 1px solid transparent;
+    width: 350px;
+    height: 200px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: #111727;
+}
+
+.start8{
+    position:absolute;
+    width: 250px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 90px;
+    font-size: 25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+
+}
+
+.pstep8{
+    width: 300px;
+    font-size: 30px;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+   
+}
+
+.previous i{
+    padding: 5px;
+    border: 2px solid white;
+    border-radius: 50%;
+    font-size: 30px;
+    color:#fff;
+    
+    
+}
